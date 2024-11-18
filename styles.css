@@ -1,0 +1,29 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #f7f7f7;
+}
+.container {
+  text-align: center;
+  border: 2px solid brown;
+  border-radius: 15px;
+  width: 300px;
+  overflow: hidden;
+  background-color: #fff;
+}
+.text {
+  font-size: 24px;
+  font-weight: bold;
+  margin: 0;
+  padding: 15px 0;
+  background-color: #fff;
+  border-bottom: 2px solid brown;
+}
+.image img {
+  width: 100%;
+  display: block;
+}
